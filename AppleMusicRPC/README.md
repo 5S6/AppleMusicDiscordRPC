@@ -5,6 +5,8 @@ Discord Rich Presense for Apple Music and iTunes (no subscription needed to work
 
 2.) Go into project directory **(cd)**
 
+4.) Run **(npm install electron)**
+
 3.) Run **(npm run test)** in the console
 
 4.) If status not appearing, go into Game Activity and select it.
