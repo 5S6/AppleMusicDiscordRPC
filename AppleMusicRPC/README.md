@@ -14,4 +14,5 @@ Discord Rich Presense for Apple Music and iTunes (no subscription needed to work
 6.) If status not appearing, go into Game Activity and select it.
 
 
-![Screen Shot 2021-08-26 at 4 54 07 PM](https://user-images.githubusercontent.com/71937946/131034636-b1384c9d-257a-47e0-ab33-1191c917f1bc.png)
+
+<img width="628" alt="Screen Shot 2021-09-29 at 7 57 19 PM" src="https://user-images.githubusercontent.com/71937946/135364229-8e4b9b76-5b30-4695-86b2-9898a3fe88fc.png">
