@@ -1,4 +1,4 @@
-# AppleMusic-Discord-Rich-Presense
+# Apple Music-Discord-Rich-Presense
 Discord Rich Presense for Apple Music and iTunes (no subscription needed to work)
 
 1.) Download Zip
